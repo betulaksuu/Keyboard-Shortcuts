@@ -1,4 +1,11 @@
 # Keyboard-Shortcuts
+⌘ Command
+⌥ Option
+⇧ Shift 
+⌃ Control
+⎋ Escape
+⌫ Delete
+↩ Return
 
 
 ## Xcode App Shortcuts
