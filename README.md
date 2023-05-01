@@ -1,4 +1,7 @@
 # MAC Keyboard-Shortcuts
+
+In this repo, you will find the most commonly used keyboard shortcuts. All the keyboard shortcuts you need are here. 
+
 > ⌘ Command
 
 > ⌥ Option
