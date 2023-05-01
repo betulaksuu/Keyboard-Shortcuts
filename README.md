@@ -1,4 +1,4 @@
-# Keyboard-Shortcuts
+# MAC Keyboard-Shortcuts
 > ⌘ Command
 
 > ⌥ Option
