@@ -20,5 +20,5 @@ TO-DO
 ## [Mac Shortcuts](https://github.com/betulaksuu/Keyboard-Shortcuts/blob/main/mac_shortcuts.md)
 TO-DO
 
-## GitHub Desktop Shortcuts
+## [GitHub Desktop Shortcuts](https://github.com/betulaksuu/Keyboard-Shortcuts/blob/main/github_desktop_shortcuts.md)
 TO-DO
