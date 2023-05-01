@@ -1,6 +1,8 @@
 # Keyboard-Shortcuts
 > ⌘ Command
+
 > ⌥ Option
+
 > ⇧ Shift 
 > ⌃ Control
 > ⎋ Escape
