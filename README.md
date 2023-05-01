@@ -4,9 +4,13 @@
 > ⌥ Option
 
 > ⇧ Shift 
+
 > ⌃ Control
+
 > ⎋ Escape
+
 > ⌫ Delete
+
 > ↩ Return
 
 
