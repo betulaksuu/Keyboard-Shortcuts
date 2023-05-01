@@ -14,7 +14,7 @@
 > ↩ Return
 
 
-## Xcode App Shortcuts
+## [Xcode App Shortcuts](https://github.com/betulaksuu/Keyboard-Shortcuts/blob/main/xcode_app_shortcuts.md)
 TO-DO
 
 ## Mac Shortcuts
